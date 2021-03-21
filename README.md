@@ -18,7 +18,7 @@ This changes provided does not change the displayed styling, only the underlying
 
 ### Links
 
-[Link to the deployed website](https://thisemcee.github.io/horiseon-code-refactor/)
+[Link to the deployed website](https://thisemcee.github.io/horiseon-code-refactor/) \
 [Link to the repo](https://github.com/thisEmcee/horiseon-code-refactor)
 
 ## Installation
