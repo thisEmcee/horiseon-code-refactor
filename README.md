@@ -18,8 +18,8 @@ This changes provided does not change the displayed styling, only the underlying
 
 ### Links
 
-[Link to the deployed website](#)
-[Link to the repo](#)
+[Link to the deployed website](https://thisemcee.github.io/horiseon-code-refactor/)
+[Link to the repo](https://github.com/thisEmcee/horiseon-code-refactor)
 
 ## Installation
 
@@ -30,4 +30,4 @@ Upload index.html, liscense.txt, and assets folder to desired webserver. The ass
 Once uploaded and deployed the application can be viewed in the desktop browser. 
 Not optimized for mWeb or native.
 
-![Screetshot of index.html] (./assets/images/demo.png)
+![Screetshot of index.html](./assets/images/demo.png)
